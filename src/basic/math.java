@@ -17,5 +17,10 @@ public class math {
 		System.out.println("Product :" + a*b);
 	}
 	
+	public  static void divide(int a, int b)
+	{
+		System.out.println("Product :" + a/b);
+	}
+	
 	
 }
